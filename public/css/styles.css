@@ -1,0 +1,27 @@
+.principal_title span:nth-child(1){
+    color:green;
+}
+.principal_title span:nth-child(2){
+    color:blue;
+}
+.principal_title span:nth-child(3){
+    color:pink;
+}
+.principal_title span:nth-child(4){
+    color:orangered;
+}
+.principal_title span:nth-child(5){
+    color:yellow;
+}
+.principal_title span:nth-child(6){
+    color:purple;
+}
+.principal_title span:nth-child(7){
+    color:aqua;
+}
+.principal_title span:nth-child(8){
+    color:lawngreen;
+}
+.principal_title span:nth-child(9){
+    color:red;
+}
