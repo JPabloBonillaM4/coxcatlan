@@ -1,14 +1,14 @@
 .principal_title span:nth-child(1){
-    color:green;
+    color:orangered;
 }
 .principal_title span:nth-child(2){
     color:blue;
 }
 .principal_title span:nth-child(3){
-    color:pink;
+    color:rgb(230, 28, 62);
 }
 .principal_title span:nth-child(4){
-    color:orangered;
+    color:lawngreen;
 }
 .principal_title span:nth-child(5){
     color:yellow;
@@ -17,10 +17,10 @@
     color:purple;
 }
 .principal_title span:nth-child(7){
-    color:aqua;
+    color:rgb(39, 190, 190);
 }
 .principal_title span:nth-child(8){
-    color:lawngreen;
+    color:rgb(116, 206, 26);
 }
 .principal_title span:nth-child(9){
     color:red;

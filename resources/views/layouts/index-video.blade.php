@@ -1,4 +1,4 @@
-<section class="section border-0 video overlay overlay-show overlay-op-8 m-0" data-video-path="{{ asset('video/index_video.mp4') }}" data-plugin-video-background data-plugin-options="{'posterType': 'jpg', 'position': '50% 50%'}" style="height: 100vh;">
+<section class="section border-0 video overlay overlay-show overlay-op-4 m-0" data-video-path="{{ asset('video/index_video.mp4') }}" data-plugin-video-background data-plugin-options="{'posterType': 'jpg', 'position': '50% 50%'}" style="height: 100vh;">
     <div class="container position-relative z-index-3 h-100">
         <div class="row align-items-center h-100">
             <div class="col">
@@ -25,7 +25,7 @@
                             <span>N</span>
                         </div>
                     </h1>
-                    <p class="text-4 text-color-light font-weight-light opacity-7 mb-0" data-plugin-animated-letters data-plugin-options="{'startDelay': 2000, 'minWindowWidth': 0}">La cuna del maíz</p>
+                    <p class="text-4 text-color-light font-weight-light opacity-7 mb-0" data-plugin-animated-letters data-plugin-options="{'startDelay': 2000, 'minWindowWidth': 0}" style="font-weight: bolder !important;">La cuna del maíz</p>
                 </div>
             </div>
         </div>

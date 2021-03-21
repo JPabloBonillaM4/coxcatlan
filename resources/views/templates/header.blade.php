@@ -4,9 +4,9 @@
             <div class="header-row">
                 <div class="header-column">
                     <div class="header-row">
-                        <div class="header-logo">
+                        <div class="header-logo mt-2">
                             <a href="index.html">
-                                <img alt="Porto" width="82" height="40" src="img/logo-default-slim-dark.png">
+                                <img alt="Porto" width="200" height="100" src="{{ asset('img/img_index/logo-principal.png') }}" class="mt-5">
                             </a>
                         </div>
                     </div>
