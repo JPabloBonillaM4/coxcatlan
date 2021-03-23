@@ -12174,7 +12174,7 @@ html.side-panel.side-panel-open.side-panel-push.side-panel-right .body {
 	left: 49%;
 	width: 23px;
 	height: 34px;
-	border: 1px solid #FFF;
+	border: 3px solid #FFF;
 	border-radius: 15px;
 	transform: translate3d(-50%, -50%, 0);
 }
@@ -12184,7 +12184,7 @@ html.side-panel.side-panel-open.side-panel-push.side-panel-right .body {
 	width: 6px;
 	height: 10px;
 	border-radius: 10px;
-	border: 1px solid #FFF;
+	border: 3px solid #FFF;
 	position: absolute;
 	top: 19px;
 	left: 49%;

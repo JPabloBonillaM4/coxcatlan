@@ -25,3 +25,23 @@
 .principal_title span:nth-child(9){
     color:red;
 }
+.index-icon{
+    width: 200px !important; 
+    height: 100px !important;
+    margin-top: 3rem;
+}
+.bg-shadow{
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.carousel-img-md{
+    height: 150px;
+    object-fit: contain;
+}
+
+@media only screen and (max-width: 769px){
+    .index-icon{
+        width: 150px !important; 
+        height: 55px !important;
+    }
+}
