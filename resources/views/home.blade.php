@@ -18,7 +18,7 @@
             </p>
         </div>
     </div>
-    <div class="row mb-lg-4">
+    {{-- <div class="row mb-lg-4">
         <div class="col-lg-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="300">
             <div class="feature-box feature-box-style-2">
                 <div class="feature-box-icon">
@@ -52,8 +52,8 @@
                 </div>
             </div>
         </div>
-    </div>
-    <div class="row pb-5 mb-5">
+    </div> --}}
+    {{-- <div class="row pb-5 mb-5">
         <div class="col-lg-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="300">
             <div class="feature-box feature-box-style-2">
                 <div class="feature-box-icon">
@@ -87,7 +87,12 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
+    {{-- <div class="row py-5 my-5">
+        <div class="col-md-12 text-center">
+            <img src="{{ asset('img/img_index/mapa.jpeg') }}" style="height: 35rem;" class="img-fluid" alt="">
+        </div>
+    </div> --}}
 </div>
 <section id="maiz" class="parallax section section-text-light section-parallax section-center py-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'scrollableParallax': true, 'scrollableParallaxMinWidth': 991, 'startOffset': 10, 'cssProperty': 'width', 'cssValueStart': 40, 'cssValueEnd': 100, 'cssValueUnit': 'vw'}" data-image-src="{{ asset('img/img_index/maiz.jpg') }}">
     <div class="d-flex justify-content-center">
@@ -97,7 +102,7 @@
                     <div class="col-lg-8 py-5 my-5">
                         <h4 class="mb-3 bg-shadow text-light py-3">Cuna del maíz</h4>
                         <p class="text-white bg-shadow font-weight-bold mb-2 py-5">Específicamente en la cueva de Coxcatlán, donde en los años 60 Richard McNisch, un eminente arqueólogo norteamericano, hace el hallazgo más impresionante de los últimos años, la mazorca más antigua del mundo, de hace 7 mil años.</p>
-                        <a href="javascript:void(0);" class="btn btn-modern btn-info mb-0">Conocer más...</a>
+                        <a href="{{ route('cuna-maiz') }}" class="btn btn-modern btn-info mb-0">Conocer más...</a>
                     </div>
                 </div>
             </div>
@@ -152,13 +157,13 @@
                         <h5>A través del tiempo...</h5>
                         <p class="mb-2">Nombre azteca formado de "cuzcatl", sarta de joyas, piedras o gargantilla de cuentas; "tlán" cerca, junto (lugar); Cozca-tlán, quiere decir "Lugar de (los que usan) collares o gargantillas.</p>
                         <p class="mb-3">En el tiempo antiguo salieron de un chicomoxtoc que en la lengua española quiere decir siete cabeceras, cinco señores principales llamados Xelhuanhuetzin Sichitexictla y con ellos una mujer llamada Ahuacoatle a quien ellos adoraban y reconocían por su diosa.....</p>
-                        <a href="javascript:void(0);" class="btn btn-modern btn-info mb-0">Conocer más</a>
+                        <a href="{{ route('history') }}" class="btn btn-modern btn-info mb-0">Conocer más</a>
                     </div>
                 </div>
             </section>
         </div>
         <div class="col-lg-6 p-0">
-            <section class="parallax section section-parallax match-height border-top-0" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="{{ asset('img/img_index/time.jpeg') }}" style="min-height: 260px;">
+            <section class="parallax section section-parallax match-height border-top-0" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="{{ asset('img/img_index/mapa.jpeg') }}" style="min-height: 260px;">
             </section>
         </div>
     </div>

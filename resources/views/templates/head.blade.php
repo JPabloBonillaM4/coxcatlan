@@ -48,6 +48,11 @@
 
 		<!-- Head Libs -->
 		<script src="{{ asset('vendor/modernizr/modernizr.min.js?v='.rand()) }}"></script>
-
+		<style>
+			.parallax-background{
+				top: 15px !important;
+				background-position-y: bottom;
+			}
+		</style>
 	</head>
 	<body class="loading-overlay-showing" data-plugin-page-transition data-loading-overlay data-plugin-options="{'hideDelay': 500}">

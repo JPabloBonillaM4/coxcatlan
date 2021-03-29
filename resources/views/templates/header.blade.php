@@ -1,15 +1,15 @@
-<header id="header" class="header-transparent header-effect-shrink" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': true, 'stickyStartAt': 30, 'stickyHeaderContainerHeight': 70}">
-    <div class="header-body border-top-0 bg-dark box-shadow-none">
-        <div class="header-container container" style="height: 135px;">
+<header id="header" class="header-transparent header-effect-shrink" @if(\Route::currentRouteName() != 'home') style="position: initial;" @endif data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': true, 'stickyStartAt': 30, 'stickyHeaderContainerHeight': 70}">
+    <div class="header-body border-top-0 bg-dark box-shadow-none" @if(\Route::currentRouteName() != 'home') style="background-color: #212529 !important;" @endif>
+        <div class="header-container container" @if(\Route::currentRouteName() != 'home') style="height: 70px;" @else style="height: 135px;" @endif>
             <div class="header-row">
                 <div class="header-column">
-                    <div class="header-row">
+                    {{-- <div class="header-row">
                         <div class="header-logo mt-2">
-                            <a href="index.html">
+                            <a href="{{ route('home') }}">
                                 <img alt="Porto" src="{{ asset('img/img_index/logo-principal.png') }}" class="index-icon">
                             </a>
                         </div>
-                    </div>
+                    </div> --}}
                 </div>
                 <div class="header-column justify-content-end">
                     <div class="header-row">

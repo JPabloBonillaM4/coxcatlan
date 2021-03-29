@@ -16,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home');
 })->name('home');
+
+Route::view('cuna-del-maiz','layouts.maiz-index')->name('cuna-maiz');
+Route::view('nuestra-historia','layouts.historia-index')->name('history');
