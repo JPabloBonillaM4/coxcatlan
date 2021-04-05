@@ -95,7 +95,7 @@
     </div> --}}
 </div>
 <section id="maiz" class="parallax section section-text-light section-parallax section-center py-0" data-plugin-parallax data-plugin-options="{'speed': 1.5, 'scrollableParallax': true, 'scrollableParallaxMinWidth': 991, 'startOffset': 10, 'cssProperty': 'width', 'cssValueStart': 40, 'cssValueEnd': 100, 'cssValueUnit': 'vw'}" data-image-src="{{ asset('img/img_index/maiz.jpg') }}">
-    <div class="d-flex justify-content-center">
+    <div class="d-flex justify-content-center" data-appear-animation="fadeInDown" data-appear-animation-delay="0" data-appear-animation-duration="1s">
         <div class="scrollable-parallax-wrapper">
             <div class="container py-5 my-5 bg-shadow">
                 <div class="row justify-content-center">
@@ -147,7 +147,7 @@
         </div>
     </div>
 </div>
-<div class="container-fluid">
+<div class="container-fluid" data-appear-animation="bounceInLeft" data-appear-animation-delay="0" data-appear-animation-duration="2s">
     <div class="row">
         <div class="col-lg-6 p-0">
             <section class="section section-success pl-4 pr-4 match-height border-top-0">

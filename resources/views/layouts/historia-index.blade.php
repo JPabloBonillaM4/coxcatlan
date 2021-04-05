@@ -68,6 +68,141 @@
                 </div>
             </div>
         </div>
+        <h4 class="col-md-12 text-center mt-5">Imágenes históricas</h4>
+        <div class="col-lg-12">
+            <div class="masonry-loader masonry-loader-showing">
+                <div class="masonry" data-plugin-masonry data-plugin-options="{'itemSelector': '.masonry-item'}">
+                    <div class="masonry-item">
+                        <a href="portfolio-single-wide-slider.html">
+                            <span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+                                <span class="thumb-info-wrapper">
+                                    <img src="{{ asset('img/history/history_6.jpeg') }}" class="img-fluid" alt="">
+                                    <span class="thumb-info-title">
+                                        <span class="thumb-info-inner">Seis</span>
+                                        <span class="thumb-info-type">Ver completa</span>
+                                    </span>
+                                    <span class="thumb-info-action">
+                                        <span class="thumb-info-action-icon"><i class="fas fa-plus"></i></span>
+                                    </span>
+                                </span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="masonry-item">
+                        <a href="portfolio-single-wide-slider.html">
+                            <span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+                                <span class="thumb-info-wrapper">
+                                    <img src="{{ asset('img/history/history_7.jpeg') }}" class="img-fluid" alt="">
+                                    <span class="thumb-info-title">
+                                        <span class="thumb-info-inner">Siete</span>
+                                        <span class="thumb-info-type">Ver completa</span>
+                                    </span>
+                                    <span class="thumb-info-action">
+                                        <span class="thumb-info-action-icon"><i class="fas fa-plus"></i></span>
+                                    </span>
+                                </span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="masonry-item">
+                        <a href="portfolio-single-wide-slider.html">
+                            <span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+                                <span class="thumb-info-wrapper">
+                                    <img src="{{ asset('img/history/history_8.jpeg') }}" class="img-fluid" alt="">
+                                    <span class="thumb-info-title">
+                                        <span class="thumb-info-inner">Ocho</span>
+                                        <span class="thumb-info-type">Ver completa</span>
+                                    </span>
+                                    <span class="thumb-info-action">
+                                        <span class="thumb-info-action-icon"><i class="fas fa-plus"></i></span>
+                                    </span>
+                                </span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="masonry-item">
+                        <a href="portfolio-single-wide-slider.html">
+                            <span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+                                <span class="thumb-info-wrapper">
+                                    <img src="{{ asset('img/history/history_9.jpeg') }}" class="img-fluid" alt="">
+                                    <span class="thumb-info-title">
+                                        <span class="thumb-info-inner">Nueve</span>
+                                        <span class="thumb-info-type">Ver completa</span>
+                                    </span>
+                                    <span class="thumb-info-action">
+                                        <span class="thumb-info-action-icon"><i class="fas fa-plus"></i></span>
+                                    </span>
+                                </span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="masonry-item">
+                        <a href="portfolio-single-wide-slider.html">
+                            <span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+                                <span class="thumb-info-wrapper">
+                                    <img src="{{ asset('img/history/history_10.jpeg') }}" class="img-fluid" alt="">
+                                    <span class="thumb-info-title">
+                                        <span class="thumb-info-inner">10</span>
+                                        <span class="thumb-info-type">Ver completa</span>
+                                    </span>
+                                    <span class="thumb-info-action">
+                                        <span class="thumb-info-action-icon"><i class="fas fa-plus"></i></span>
+                                    </span>
+                                </span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="masonry-item">
+                        <a href="portfolio-single-wide-slider.html">
+                            <span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+                                <span class="thumb-info-wrapper">
+                                    <img src="{{ asset('img/history/history_11.jpeg') }}" class="img-fluid" alt="">
+                                    <span class="thumb-info-title">
+                                        <span class="thumb-info-inner">Once</span>
+                                        <span class="thumb-info-type">Ver completa</span>
+                                    </span>
+                                    <span class="thumb-info-action">
+                                        <span class="thumb-info-action-icon"><i class="fas fa-plus"></i></span>
+                                    </span>
+                                </span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="masonry-item">
+                        <a href="portfolio-single-wide-slider.html">
+                            <span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+                                <span class="thumb-info-wrapper">
+                                    <img src="{{ asset('img/history/history_12.jpeg') }}" class="img-fluid" alt="">
+                                    <span class="thumb-info-title">
+                                        <span class="thumb-info-inner">Doce</span>
+                                        <span class="thumb-info-type">Ver completa</span>
+                                    </span>
+                                    <span class="thumb-info-action">
+                                        <span class="thumb-info-action-icon"><i class="fas fa-plus"></i></span>
+                                    </span>
+                                </span>
+                            </span>
+                        </a>
+                    </div>
+                    <div class="masonry-item">
+                        <a href="portfolio-single-wide-slider.html">
+                            <span class="thumb-info thumb-info-centered-info thumb-info-no-borders">
+                                <span class="thumb-info-wrapper">
+                                    <img src="{{ asset('img/history/rupestre.jpeg') }}" class="img-fluid" alt="">
+                                    <span class="thumb-info-title">
+                                        <span class="thumb-info-inner">Pestre</span>
+                                        <span class="thumb-info-type">Ver completa</span>
+                                    </span>
+                                    <span class="thumb-info-action">
+                                        <span class="thumb-info-action-icon"><i class="fas fa-plus"></i></span>
+                                    </span>
+                                </span>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 @endsection

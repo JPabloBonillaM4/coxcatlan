@@ -69,8 +69,8 @@
                                                 Nuestra historia
                                             </a>
                                             <ul class="dropdown-menu">
-                                                <li><a class="dropdown-item" data-hash data-hash-offset="40" href="@if(\Route::currentRouteName() == 'maiz') {{ route('home') }} @else #maiz @endif">Cuna del maíz</a></li>
-                                                <li><a class="dropdown-item" data-hash data-hash-offset="125" href="@if(\Route::currentRouteName() == 'history') {{ route('home') }} @else #history @endif">A través del tiempo</a></li>
+                                                <li><a class="dropdown-item" data-hash data-hash-offset="40" href="@if(\Route::currentRouteName() != 'home') {{ route('cuna-maiz') }} @else #maiz @endif">Cuna del maíz</a></li>
+                                                <li><a class="dropdown-item" data-hash data-hash-offset="125" href="@if(\Route::currentRouteName() != 'home') {{ route('history') }} @else #history @endif">A través del tiempo</a></li>
                                                 {{-- <li class="dropdown-submenu">
                                                     <a class="dropdown-item" href="#">Navigations</a>
                                                     <ul class="dropdown-menu">
