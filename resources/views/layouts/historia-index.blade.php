@@ -203,6 +203,89 @@
                 </div>
             </div>
         </div>
+        <div class="col-lg-6 mt-5 pt-5">
+            <div class="owl-carousel owl-theme nav-inside" data-plugin-options="{'items': 1, 'margin': 10, 'loop': false, 'nav': true, 'dots': false}">
+                <div>
+                    <div class="img-thumbnail border-0 p-0 d-block">
+                        <img class="img-fluid img-md border-radius-0" src="{{ asset('img/mapa.jpeg') }}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-5 pt-5">
+            <div class="owl-carousel owl-theme nav-inside" data-plugin-options="{'items': 1, 'margin': 10, 'loop': false, 'nav': true, 'dots': false}">
+                <div>
+                    <div class="img-thumbnail border-0 p-0 d-block">
+                        <img class="img-fluid img-md border-radius-0" src="{{ asset('img/mapa_2.jpeg') }}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6">
+            <h5 class="text-primary">INFORME DE JUAN CASTAÑEDA LEÓN:</h5>
+            <p>Es indudable que los aborígenes de coxcatlan pertenecieron a la raza popoloca; dicha creencia se fundamenta en que el pueblo se ubica en la zona que ocupo aquella desconocida y antiquisima raza  también por el informe que el corregidor del pueblo, Don Juan Castañeda León, que rindió en 1580 contestando el cuestionario que circulo en aquella época por orden de S.M Felipe 2, donde se señala a coxcatlan se habla el idioma chuchon o popoloca.</p>
+            <p>El coregidor tambien informa que los fundadores de coxcatlan habian salido de una    cueva que ellos llamaban "Chicomoztoc". Respecto a lo anterior resaltaban los nombres de cinco principales entre los integrantes de esta trubu: XELHUAN, TUZPAN, HUETZIN, SUCHITL, XICTLA  y una mujer llamada CIHUACOATL a quienes ellos adoraban por encima de los demás.</p>
+            <p>Sin embargo, una vez en el lugar en donde debería de fundarse el poblado y siendo todos los principales tan queridos y respetados por los peregrinos, decidieron echarlo a la suerte para ver cual de ellos seria el primer Rey de Coxcatlan, tocando como mencionamos en un principio a XHELHUA y como conocimiento inmediatamente le colocaron en  el cuello varios collares de cuentas de diferentes colores, ademas de joyas ensartadas que formaron cadenas.</p>
+        </div>
+        <div class="col-lg-6">
+            <h5 class="text-primary">EL CONQUISTADOR DE COXCATLAN:</h5>
+            <p>Xelhua, conquistador nonoalca mencionando por el corregidor Castañena León, efectuó su conquista en el siglo XV, para posteriormente ser tributario de la gran Tenochtitlan; en 1520 los gobernantes de Coxcatlán  ofrecieron vasallaje a Hernán Cortés aprovechando la estancia de éste en Tepeaca y llevándole como presente un cajón lleno de barras de oro, joyas y piedras preciosas.</p>
+            <p>Después de la conquista, coxcatlán paso a ser una "encomienda" hasta 1534, fecha en que pasa a la administración de " la corona Española". en 1750 paso a forma parte de la jurisdicción eclesiástica de Tehuacan. ya pasa el XIX pertenecio al antiguo distrito de Tehuacan y en 1885 es declarado municipio libre. actualmente es cabecera municipal con el nombre de villa de cozcatlán.</p>
+            <p>A lo largo de la historia son vario los personajes ilustres que han pasado por Coxcatlan, entre ellos Don Ignacio y Don Manuel Mier y Terán, lo anterior a principios XIX. En enero de 1848 llega a este lugar Antonio Lopez de Santa Anna.</p>
+        </div>
+        <div class="col-lg-6 mt-4">
+            <div class="owl-carousel owl-theme nav-inside" data-plugin-options="{'items': 1, 'margin': 10, 'loop': false, 'nav': true, 'dots': false}">
+                <div>
+                    <div class="img-thumbnail border-0 p-0 d-block">
+                        <img class="img-fluid img-md border-radius-0" src="{{ asset('img/libro/1.jpeg') }}" alt="">
+                    </div>
+                </div>
+                <div>
+                    <div class="img-thumbnail border-0 p-0 d-block">
+                        <img class="img-fluid img-md border-radius-0" src="{{ asset('img/libro/2.jpeg') }}" alt="">
+                    </div>
+                </div>
+                <div>
+                    <div class="img-thumbnail border-0 p-0 d-block">
+                        <img class="img-fluid img-md border-radius-0" src="{{ asset('img/libro/3.jpeg') }}" alt="">
+                    </div>
+                </div>
+                <div>
+                    <div class="img-thumbnail border-0 p-0 d-block">
+                        <img class="img-fluid img-md border-radius-0" src="{{ asset('img/libro/4.jpeg') }}" alt="">
+                    </div>
+                </div>
+                <div>
+                    <div class="img-thumbnail border-0 p-0 d-block">
+                        <img class="img-fluid img-md border-radius-0" src="{{ asset('img/libro/5.jpeg') }}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-6 mt-4">
+            <div class="owl-carousel owl-theme nav-inside" data-plugin-options="{'items': 1, 'margin': 10, 'loop': false, 'nav': true, 'dots': false}">
+                <div>
+                    <div class="img-thumbnail border-0 p-0 d-block">
+                        <img class="img-fluid img-md border-radius-0" src="{{ asset('img/libro/6.jpeg') }}" alt="">
+                    </div>
+                </div>
+                <div>
+                    <div class="img-thumbnail border-0 p-0 d-block">
+                        <img class="img-fluid img-md border-radius-0" src="{{ asset('img/libro/7.jpeg') }}" alt="">
+                    </div>
+                </div>
+                <div>
+                    <div class="img-thumbnail border-0 p-0 d-block">
+                        <img class="img-fluid img-md border-radius-0" src="{{ asset('img/libro/8.jpeg') }}" alt="">
+                    </div>
+                </div>
+                <div>
+                    <div class="img-thumbnail border-0 p-0 d-block">
+                        <img class="img-fluid img-md border-radius-0" src="{{ asset('img/libro/9.jpeg') }}" alt="">
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
 @endsection

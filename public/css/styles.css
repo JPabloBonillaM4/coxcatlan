@@ -44,6 +44,11 @@
     object-fit: contain;
 }
 
+.img-md{
+    height: 40rem;
+    object-fit: contain;
+}
+
 @media only screen and (max-width: 769px){
     .index-icon{
         width: 150px !important; 
